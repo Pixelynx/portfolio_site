@@ -416,6 +416,13 @@ h1, h2, h3, h4, h5, h6 {
   color: #ffab00;
 }
 
+.fh5co-bio-photo {
+  display: flex;
+  justify-content: center;
+  /* background-color: pink; */
+  width: 115%;
+}
+
 .fh5co-bio-photo img {
   max-width: 100%;
   -webkit-box-shadow: 6px 24px 61px -12px rgba(0, 0, 0, 0.49);
